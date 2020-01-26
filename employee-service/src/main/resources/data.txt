@@ -1,0 +1,5 @@
+INSERT INTO `employee` (`id`, `first_name`, `last_name`, `age`, `city`) VALUES
+(173, 'Gayan', 'Jeevaka', 31, 'Colombo'),
+(174, 'Gayan', 'Jeevaka', 31, 'Colombo'),
+(176, 'Madhawa', 'Presanna', 27, 'Malabe'),
+(177, 'Chamali', 'Anuradha', 30, 'Fort');
